@@ -38,6 +38,36 @@
 
 ---
 
+### 🧠 Machine Learning Skills
+
+#### 🔹 Supervised Learning
+
+**Regression**  
+`Linear` • `Ridge` • `Lasso` • `ElasticNet` • `Polynomial` • `SVR`  
+`Decision Tree` • `Random Forest` • `KNN` • `XGBoost` • `LightGBM` • `CatBoost`
+
+**Classification**  
+`Logistic Regression` • `KNN` • `SVM` • `Decision Tree` • `Random Forest` • `Naive Bayes`  
+`XGBoost` • `AdaBoost` • `LightGBM` • `CatBoost` • `LDA` • `QDA`
+
+---
+
+#### 🔹 Unsupervised Learning
+
+**Clustering**  
+`K-Means` • `Hierarchical` • `DBSCAN` • `GMM` • `Mean Shift` • `Agglomerative`
+
+**Dimensionality Reduction**  
+`PCA` • `t-SNE` • `UMAP` • `Autoencoders`
+
+---
+
+#### 🔹 Others  
+`Bagging` • `Boosting` • `Stacking` • `Voting`  
+`Cross-Validation` • `GridSearchCV` • `ROC-AUC` • `Confusion Matrix` • `Feature Scaling & Selection`
+
+---
+
 ### 🚀 Projects
 
 #### 💡 Machine Learning
